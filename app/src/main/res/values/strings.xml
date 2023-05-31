@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GithubAPI</string>
+    <string name="search">Cari User</string>
+    <string name="search_hint">Masukkan Username</string>
+    <string name="username">Username</string>
+    <string name="followersCnt">Followers: %1$d</string>
+    <string name="followingCnt">Following: %1$d</string>
+    <string name="userphoto">Profile Photo</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="content_tab_home">Welcome Home</string>
+    <string name="empty">Username Tidak Ditemukan</string>
+    <string name="noFollow">Tidak ditemukan User</string>
+    <string name="nama">Name</string>
+    <string name="favorite">favorite</string>
+    <string name="settings">settings</string>
+    <string name="noFavorite">Daftar Favorite Kosong</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="title">GitHub API</string>
+    <string name="logo">github api</string>
+</resources>
